@@ -34,6 +34,15 @@ Visit in this order and take notes at each step:
 
 Then use `references/checklist.md` as the checklist for what to look for at each step.
 
+### If the buying path needs a file upload or personal input
+
+Some shops (custom mugs, printed gifts, tailoring, photo products) cannot be added to the cart until the buyer uploads a photo, types text, or enters measurements. Do **not** upload any file or type anything into the shop on your own.
+
+1. Read everything reachable without it: shop page, product options, price, "how it works", policies, contact, and the editor page itself (buttons, helper text, file limits, preview, privacy note).
+2. Check whether price, advance payment, delivery charge and cancellation rules are shown **inside the editor** (not only on another page), and whether the final "Add to cart" button is easy to find on mobile.
+3. Stop there and list cart, checkout and payment under "যা দেখতে পারিনি" with the reason "ছবি আপলোড লাগে".
+4. At the end, tell the owner once: "চেকআউট পর্যন্ত দেখতে চাইলে বলুন। আপনার নিজের সাইটে একটা নমুনা ছবি আপলোড করে কার্ট পর্যন্ত যেতে পারি, চূড়ান্ত অর্ডার দেব না।" Only do it after the owner clearly says yes, and only on a site the owner says is theirs.
+
 ## Step 3: Score each area
 
 Rate each area 1 to 5 (5 = no problem): Clarity, Product page, Trust, Price and delivery transparency, Payment options, Checkout effort, Mobile experience, Speed. Base every score on something you saw.

@@ -62,6 +62,15 @@ Mark each item: seen OK / problem / could not check. Only items marked "problem"
 - Any broken images, 404 pages, console errors that visibly break a feature?
 - Does the Facebook page link or WhatsApp button open correctly?
 
+## 8b. Custom / personalised products (upload photo, add text)
+- Does the editor page show the **price** and what the buyer will pay now (advance) and later?
+- Are delivery charge, delivery time and the "no cancellation after confirmation" rule shown **before** the buyer finishes designing, not only on a separate page?
+- Are file rules clear (type, size limit) and is it clear the photo is kept private?
+- Is there a simple preview that matches what will be printed? Is technical wording (inches, margins, "safe area") explained in plain Bangla?
+- Is "Add to cart" visible without a long scroll on mobile (sticky button)? Are secondary actions (save, download) readable?
+- Is there a step where the shop shows the final design for approval before printing, and is that promised on the page?
+- Is there proof of past work: sample photos, customer photos, reviews?
+
 ## 9. Facebook-page shops (no website)
 If the "site" is a Facebook page or Instagram shop, check instead:
 - Is the order method obvious (one pinned post, a clear number or Messenger link)?
